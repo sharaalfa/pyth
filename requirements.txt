@@ -1,0 +1,6 @@
+flask
+redis
+pycurl
+Pillow
+czipfile
+urllib3
